@@ -1,0 +1,116 @@
+body
+{
+    background-color: #0e0e0e;
+}
+.navbar{
+    display: flex;
+   
+    margin-left: 100px;
+    margin-right: 70px;
+    align-items: center;
+    
+}
+
+#n1
+{   margin-left:15px;
+    margin-right: 25px;
+    color: white;
+    font-size:25px ;
+    font-family: BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+.link
+{   
+    margin-left: 25px;
+    color:#9d9d9d;
+    font-family: BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-weight: bold;
+   font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+#link
+{
+    margin-right:200px;
+}
+.btn1
+{
+height:36px;
+width:102px;
+border-radius: 4px;
+background-color:#0076bf;
+color:white;
+font-family: BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+font-weight: bold;
+font-size: 16px;
+border-radius: 2px solid #0076bf ;
+}
+.inp1
+{
+    height: 28px;
+    border-radius: 4px;
+    background-color: #0e0e0e ;
+    
+}
+section{
+    margin-top: 30px;
+}
+.update
+{
+    color:#9d9d9d;
+    font-weight: bold;
+    font-family: BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    margin-left: 400px;
+}
+.panel1
+{
+    width: auto;;
+    height:588px;
+   
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 25px 25px 40px 25px;
+    display: flex;
+
+}
+.text1{
+    width:35rem;
+    height:550px;
+   justify-content: center;
+    align-content: space-around;
+    display:flex;
+    flex-direction:column;
+    color:#9d9d9d;
+    font-family: BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    
+    
+   
+}
+.imag1{
+    width:600px;
+    background-image: url(/home-screenshot-mac-2x-v2.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height:550px;
+    margin-left: 100px;
+    padding-right: 300px;
+    padding-left: 500px;
+}
+.info
+{
+    width: 20em;
+    height: 30px;
+    border: 2px solid gray;
+    padding-left:10px ;
+    border-radius: 25px;
+    align-content: center;
+    background-color:rgb(30, 29, 29);
+    
+    font-weight:600;
+    
+
+}
+.a1{
+    color: #0076bf;
+}
